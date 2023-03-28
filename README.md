@@ -12,7 +12,7 @@ My classmate and I are collaborating on a website called ClassApp, which aims to
 <h2>📫 How to reach me</H2>
 <a href= mailto: "hmfloyd16@gmail.com">Email (hmfloyd16@gmail.com)</a>
 <br>
-<a href="https://www.linkedin.com/in/hannah-papa-b545955a/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/hannah-papa-b545955a](https://www.linkedin.com/in/hannah-papa">LinkedIn</a>
 
 <H2>🎉 Just for fun</H2>
 When I'm afk you can find me:<br>
