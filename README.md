@@ -3,11 +3,11 @@
 
 
 <H2>💻 About Me</h2>
-I am currently enrolled in the Full-Stack Web Development Bootcamp at Nashville Software School and am expecting to complete the program mid-May. Following years in Management and Events, I am excited to dive into a career in Technology. I am eager to apply my skills in planning, problem-solving, and communication to Software Development and to focus on growth as a lifelong learner.
+I am a recent graduate of the Full-Stack Web Development Bootcamp at Nashville Software School. Following years in Management and Events, I am excited to dive into a career in Technology. I am eager to apply my skills in planning, problem-solving, and communication to Software Development and to focus on growth as a lifelong learner.
 
 <H2>⚒️Work in Progress</H2>
 <h4>I'm continually striving to develop and practice my skills and am always open to collaborate!</h4>
-As I approach the end of my time at NSS, I'm focused on my final capstone. Traveled + True is an app designed for the true crime enthusiast on the go. While we're often familiar with cases that are local, we may be unaware of those in our vicinity as we travel. Traveled + True will allow the user to dive into crimes based on travel destinations. Visiting New York? Simply select your destination and the app will present you with fascinating stories centered around that location. Users can then access various media sources to digest differing viewpoints, and are presented with ways to get involved whether it be keeping an eye out, spreading the word, or signing a petition. Traveled + True is here to make you more aware on your journeys and more engaged with the communities you visit.  
+Traveled + True is an app designed for the true crime enthusiast on the go. While we're often familiar with cases that are local, we may be unaware of those in our vicinity as we travel. Traveled + True will allow the user to dive into crimes based on travel destinations. Visiting New York? Simply select your destination and the app will present you with fascinating stories centered around that location. Users can then access various media sources to digest differing viewpoints, and are presented with ways to get involved whether it be keeping an eye out, spreading the word, or signing a petition. Traveled + True is here to make you more aware on your journeys and more engaged with the communities you visit.  
 
 <h2>📫 How to reach me</H2>
 <a href= mailto: "hmfloyd16@gmail.com">Email (hmfloyd16@gmail.com)</a>
